@@ -1,7 +1,14 @@
-# Iowa State University - Course COM S 363
+# Iowa State University - Course COM S 417
 
-COM S 363 - Introduction to Database Management Systems
+COM S 417 - Software Testing
 
-This is a course that is an introduction to Database design using entity-relationship model, data dependencies, and object definition language. In this course, I learned about relation, object-oriented, and semi-structured data models and queries, by adhering to SQL, ODMG, and XML standards. I also learned about application development in SQL-like languages and general purpose host languages with application program interfaces, and information integration using data warehouses, mediators, and wrappers.
+This is a course that is a comprehensive study of software testing, principles, methodologies, management strategies and techniques. Some of the modules consisted of the following topics: Test models, test design techniques (specification and structural testing techniques), test adequacy criteria, integration, regression, system testing methods, and software testing tools.
 
-This course consisted of four homeworks, and three programming projects, that were distributed throughout the course with individual submissions.
+This course consisted of 4 assignments and a group project.
+
+# The assignments for this class were:
+
+1. Assignment 1 - Code Coverage (Jacoco)
+2. Assignment 2 - Test Generation (Evosuite)
+3. Assignment 3 - Combination Strategies (TSL and CIT)
+4. Assignment 4 - Graphs and Mutation Testing 
